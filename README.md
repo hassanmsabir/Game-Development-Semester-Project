@@ -1,9 +1,4 @@
 # Game-Development-Semester-Project
-<!DOOCTYPE html>
-<html>
-<head></head>
-  <body>
-    <p> 
     Maze Runner 3D
 
 Executive Summary:
@@ -17,8 +12,3 @@ The target audience of this game will be 12+.
 Project Scope:
 This project has huge scope. If time permits, the villain Machines can also be added to the game, that will come out at night if we are left outside the gates before night. The battle will be at most difficulty. 
 The story can also be added to the game, just like the movie series.
-
-
-    </p>
-  </body>
-</html>
