@@ -1,0 +1,18 @@
+#banner{
+    height: 1200px;
+    width: 90%;
+    margin: 35px;
+}
+p, h1, h3{
+    padding-top: 25px;
+    color: black;
+    font-family: helvetica;
+    text-align: justify;
+    
+}
+h1{
+    padding-top: 75px;
+}
+p{
+    
+}
